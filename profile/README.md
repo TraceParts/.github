@@ -5,5 +5,3 @@ As part of the Trace Group founded in 1990, TraceParts brings highly targeted ma
 TraceParts’ comprehensive Digital Advertising Solutions help part manufacturers and distributors, 3D printing & rapid prototyping suppliers, CAD/CAM/CAE/ECAD software and computer hardware vendors promote their products and services and generate highly qualified sales leads.
 
 Available free-of-charge to millions of Engineers & Designers worldwide, the TraceParts CAD-content platform provides access to 1,730 supplier-certified product catalogs and billions of 2D drawings & 3D CAD models and product datasheets that perfectly match the digitalization needs of Design, Purchasing, Manufacturing and Maintenance processes & operations, in virtually any industrial sector.
-
-Contact Us
