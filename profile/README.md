@@ -1,4 +1,4 @@
-TraceParts is one of the world’s leading CAD-content platforms for Engineering, Industrial Equipment and Machine Design, totaling over 5.3 million registered members from 1.3 million companies actively sourcing product information and technical data from over 195 different countries.
+TraceParts is one of the world’s leading CAD-content platforms for Engineering, Industrial Equipment and Machine Design, totaling over 5.8 million registered members from 1.3 million companies actively sourcing product information and technical data from over 195 different countries.
 
 As part of the Trace Group founded in 1990, TraceParts brings highly targeted marketing exposure to more than 800 customers of all sizes and from all industries, via powerful cloud-based API and SaaS applications such as CAD part libraries, product catalogs and configurators.
 
